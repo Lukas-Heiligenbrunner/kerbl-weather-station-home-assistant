@@ -1,7 +1,9 @@
 {
   "domain": "temp_station_integration",
   "name": "Temp Station integration",
-  "version": "0.1",
-  "requirements": [],
-  "codeowners": []
+  "documentation": "https://github.com/Lukas-Heiligenbrunner/kerbl-weather-station-home-assistant",
+  "codeowners": ["@lukas-heiligenbrunnr"],
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": []
 }
